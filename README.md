@@ -6,11 +6,10 @@
 
 - 🔭 I’m currently working on **Front-End development**
 
-- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://github.com/BERUASHVILIG](https://github.com/BERUASHVILIG)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React Typescript**
 
 - 📫 How to reach me **giorgiberuashvili112@gmail.com**
 
