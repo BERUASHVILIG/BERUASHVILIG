@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BERUASHVILIG](https://github.com/BERUASHVILIG)
 
-- 💬 Ask me about **React Typescript**
+- 💬 Ask me about **React Redux Typescript**
 
 - 📫 How to reach me **giorgiberuashvili112@gmail.com**
 
