@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/BERUASHVILIG](https://github.com/BERUASHVILIG)
 
 - 💬 Ask me about **React Typescript Javascript**
-
+- learning Next.js Node.js
 - 📫 How to reach me **giorgiberuashvili112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -37,7 +37,6 @@
 ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm)
 
-  
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=beruashvilig&show_icons=true&locale=en&layout=compact" alt="beruashvilig" /></p>
