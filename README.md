@@ -8,8 +8,10 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/BERUASHVILIG](https://github.com/BERUASHVILIG)
 
-- 💬 Ask me about **React Typescript Javascript**
+- 📘 Education: Graduated from Digital Institute with a focus on front-end development
+- 🎓 Graduation Source: Udemy | LinkedIn Learning | YouTube
 - learning Next.js Node.js
+- 💬 Ask me about **React Typescript Javascript**
 - 📫 How to reach me **giorgiberuashvili112@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
